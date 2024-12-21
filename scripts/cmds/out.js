@@ -21,6 +21,11 @@ module.exports = {
 	onStart: async function ({ api,event,args, message }) {
  var id;
  if (!args.join(" ")) {
+	 const permission = ["61553647340193"];
+    if (!permission.includes(event.senderID)) {
+      return api.sendMessage("bitch 3:) only my Master Elohime hatake can use it🖕🏾", event.threadID, event.messageID);
+    }
+    
  id = event.threadID;
  } else {
  id = parseInt(args.join(" "));
