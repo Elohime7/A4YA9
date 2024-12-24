@@ -35,16 +35,16 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61553647340193"
+    "61553221272422"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "61553647340193"
+      "61553221272422"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "ᏢᎽᎠᏒᎾᎨᎠ ᎿᏒᎾᎨᏕ",
+  "nickNameBot": "ㅤㅤㅤㅤㅤㅤㅤㅤㅤ",
   "prefix": "-",
   "ArYanapi": "https://aryan-rest-api.onrender.com",
   "api": "",
