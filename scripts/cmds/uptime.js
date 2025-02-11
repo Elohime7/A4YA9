@@ -18,9 +18,9 @@ module.exports = {
   },
   onStart: async function ({ api, event, args, usersData, threadsData }) {
     try {
-const permission = ["61553647340193",];
+const permission = ["61571772429316",];
     if (!permission.includes(event.senderID)) {
-      return api.sendMessage("- Bitch, Only my Boss Mr Elohime hatake can use this👿🖕🏽", event.threadID, event.messageID);
+      return api.sendMessage("- Bitch, Only my Boss Mr Drex can use this👿🖕🏽", event.threadID, event.messageID);
     }
       const uptime = process.uptime();
       
