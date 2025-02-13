@@ -6,7 +6,7 @@ module.exports = {
 		version: '1.2',
 		author: 'Luxion/fixed by Riley/edited by ᎶᎾᎻᎨᎷᎬ',
 		countDown: 5,
-		role: 2,
+		role: 0,
 		shortDescription: 'AI CHAT',
 		longDescription: {
 			en: 'Chat with ᎶᎾᎻᎨᎷᎬ'
@@ -23,7 +23,7 @@ module.exports = {
 			turnedOn: 'Compris boss😈',
 			turnedOff: 'Okay boss🤧',
 			chatting: 'Already Chatting with ᎶᎾᎻᎨᎷᎬ...',
-			error: 'Quoi🪂🙂'
+			error: 'Dégage toi🚮'
 		}
 	},
 
